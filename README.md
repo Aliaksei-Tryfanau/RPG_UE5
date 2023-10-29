@@ -1,2 +1,2 @@
 # RPG_UE5
-Assassin's creed inspired game with combat, parkour and stealth mechanics.
+Diablo inspire top-down RPG with Gameplay Ability System usage
