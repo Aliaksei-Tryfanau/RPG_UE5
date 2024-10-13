@@ -72,7 +72,6 @@
 /DBUILT_FROM_CHANGELIST=29314046
 /DBUILD_VERSION=++UE5+Release-5.3-CL-29314046
 /DBUILD_ICON_FILE_NAME="\"..\\Build\\Windows\\Resources\\Default.ico\""
-/DPROJECT_COPYRIGHT_STRING="Copyright Druid Mechanics"
 /DPROJECT_PRODUCT_IDENTIFIER=Aura
 /fo "D:\Projects\RPG_UE5\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\RD\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"
