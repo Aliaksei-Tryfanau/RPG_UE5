@@ -4,12 +4,12 @@
 
 FString UAuraGameplayAbility::GetDescription(int32 Level)
 {
-	return FString::Printf(TEXT("<Default>%s, </><Level>%d</>"), L"Default Ability Name - LoremIpsum LoremIpsum LoremIpsum LoremIpsum LoremIpsum LoremIpsum LoremIpsum LoremIpsum LoremIpsum LoremIpsum LoremIpsum LoremIpsum LoremIpsum LoremIpsum LoremIpsum LoremIpsum", Level);
+	return FString::Printf(TEXT("<Default>%s, </><Level>%d</>"), L"Placeholder Ability Name", Level);
 }
 
 FString UAuraGameplayAbility::GetNextLevelDescription(int32 Level)
 {
-	return FString::Printf(TEXT("<Default>Next Level: </><Level>%d</> \n<Default>Causes much more damage. </>"), Level);
+	return FString::Printf(TEXT("<Default>Next Level: </><Level>%d</> \n<Default>Placeholder next level description. </>"), Level);
 }
 
 FString UAuraGameplayAbility::GetLockedDescription(int32 Level)
